@@ -4,7 +4,7 @@ This project allows you to add text to a meme image and randomly generate images
 <img width="538" alt="Screen Shot 2022-01-27 at 1 51 46 PM" src="https://user-images.githubusercontent.com/63084147/151424564-259f1cf2-06b7-437d-b32a-c627d71f1d32.png">
 
 
-# Getting Started with Create React App
+# Getting Started with Create React App - Steps to run it on your own
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
